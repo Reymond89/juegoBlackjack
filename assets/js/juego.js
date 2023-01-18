@@ -107,7 +107,7 @@ setTimeout(() => {
         }else{
             alert('Computador Gana!');
         }
-    }, 19);
+    }, 100);
 }
 
 
